@@ -1,0 +1,192 @@
+[
+
+// {
+//     // @skip
+//     "path": "/Company",
+//     "title": "SpyFu - Contact Us",
+//     "description": "SpyFu is based in Scottsdale, Arizona and was founded in 2005 in Mike Roberts' garage. Live Chat Hours: 4AM-5PM MST Email: support@spyfu.com Phone: 1.888.201.0422",
+//     "canonical": "https://www.spyfu.com/company"
+// },
+// {
+//     // @skip
+//     "path": "/freeaccount",
+//     "title": "SpyFu Free Trial - No CC Required. Unlimited searches.",
+//     "description": "Get a free SpyFu account with unlimited searches today. No CC required. Coupon code or promo code not required.",
+//     "canonical": "https://www.spyfu.com/freeaccount"
+// },
+// {
+//     // @skip
+//     "path": "/Jobs",
+//     "title": "SpyFu Careers - Best Software Company to Work for Scottsdale, AZ",
+//     "description": "We're hiring! Looking for creative geniuses to join our team based in the Scottsdale Airpark. Front-end Javascript Developer, and more..",
+//     "canonical": "https://www.spyfu.com/jobs"
+// },
+// {
+//     // @skip
+//     "path": "/api/docs/ad-history",
+//     "title": "SpyFu API - AdWords History API Developer Documentation",
+//     "description": "Access the complete Adwords campaign history for any website. We have every ad run on any keyword any time in the last 10+ years. Try the API for free.",
+//     // "canonical": "https://www.spyfu.com/api/docs/ad-history" // @todo
+// },
+// {
+//     // @skip
+//     "path": "/api/docs/core",
+//     "title": "SpyFu API - Competitor Keyword Research API Documentation",
+//     "description": "This API does a lot: Search for a competitor. Download their keywords. Get stats like Ad Budget for domains. Get keyword stats like CPC and search volume.",
+//     // "canonical": "https://www.spyfu.com/api/docs/core" // @todo
+// },
+// {
+//     // @skip
+//     "path": "/api/docs/leads",
+//     "title": "SpyFu API - Domain Lists and Leads API Documentation",
+//     "description": "Create a targeted list of domains using any number of filters: Location, Industry, Adword Budget, Search Engine Traffic, Social Media Presense, and more.",
+//     "canonical": "https://www.spyfu.com/api/docs/leads"
+// },
+// {
+//     // @skip
+//     "path": "/api/docs/related-keywords",
+//     "title": "SpyFu API - Google Keyword Tool API Documentation",
+//     "description": "Keyword Research API. Filter keyword results by Google Keyword Tool parameters: CPC, Search Volume, Ranking Difficulty, and more.  Try it free. No CC required.",
+//     "canonical": "https://www.spyfu.com/api/docs/related-keywords"
+// },
+// {
+//     // @skip
+//     "path": "/api/docs/url",
+//     "title": "SpyFu API - Competitor Url Analysis API Documentation",
+//     "description": "Search for a url, or any part of a url - host, "path", page - and get every keyword it ranks on. Also, get core stats like clicks and budget. Try it free. ",
+//     "canonical": "https://www.spyfu.com/api/docs/url"
+// },
+// {
+//     // @skip
+//     "path": "/api/docs/weekly-tracking",
+//     "title": "SpyFu API - Weekly AdWords and SEO Rank Tracking API Documentation",
+//     "description": "Add and manage keywords programmatically to our weekly SEO and PPC rank tracking platform for Google and Bing. ",
+//     "canonical": "https://www.spyfu.com/api/docs/weekly-tracking"
+// },
+// {
+//     // @skip
+//     "path": "/api/get-started",
+//     "title": "SpyFu API - Get Started",
+//     "description": "API access comes with every Pro membership. Accessing the API is as simple as pasting your API key into your browser's url. Get up and running in 2 minutes.",
+//     "canonical": "https://www.spyfu.com/api/get-started"
+// },
+
+//      // {
+//      // @skip
+//      //     "path": "/tracking",
+//      //     "title": "SpyFu Keyword Rank Tracking - Weekly PPC and SEO Rank Checker",
+//      //     "description": "Track your ranking progress and impression share on your most important keyword groups. We'll suggest expansion keywords and actions to take. Try it free.",
+//      //     "canonical": "https://www.spyfu.com/tracking"
+//      // },
+// //     // {
+//
+// //     //     "path": "/uk",
+// //     //     "title": "SpyFu UK - Competitor Keyword Research Tools for PPC & SEO",
+// //     //     "description": "Search for any competitor. Download their keywords. It's that simple. Learn competitors' PPC & SEO tricks and avoid their mistakes. Try it free. No CC Required.",
+// //     //     "canonical": "https://www.spyfu.com/uk"
+// //     // },
+//     // {
+//     // @skip
+//     //     "path": "/weekly_ranking",
+//     //     "title": "SpyFu Keyword Research Tools | Weekly Keyword Tracking for PPC & SEO",
+//     //     "description": "SEO PPC Reports",
+//     //     "canonical": "https://www.spyfu.com/weekly_ranking"
+//     // },
+// { // this is logged in only so I asked Mike and he said it doesn't matter.
+//     "path": "/recon/edit",
+//     "title": "SpyFu Keyword Research Tools | Recon Files | Custom Reports",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/recon/edit"
+// },
+// {
+//     // @skip
+//     "path": "/land/addkeywords",
+//     "title": "SpyFu Keyword Research - Customize SpyFu with your keywords",
+//     "description": "Add your own keywords to SpyFu's core database and we'll track them forever. Add niche keywords, branded keywords, and import your entire Adwords account.",
+//     "canonical": "https://www.spyfu.com/land/addkeywords"
+// },
+// {
+//     // @skip
+//     "path": "/Land/BacklinkCheck",
+//     "title": "Check Your Backlinks with SpyFu's Backlink Builder",
+//     "description": "Find backlinks that help you rank on a specific keyword. See only safe backlinks currently indexed by Google. Target the authors of the links on social media.",
+//     "canonical": "https://www.spyfu.com/land/backlinkcheck"
+// },
+// {
+//     // @skip
+//     "path": "/land/exportablereports",
+//     "title": "REDIRECT TO HOME PAGE",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/exportablereports"
+// },
+// {
+//     // @skip
+//     "path": "/land/free-report",
+//     "title": "REDIRECT TO HOME PAGE",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/free-report"
+// },
+// {
+//     // @skip
+//     "path": "/Land/HowDoesSpyFuCompare",
+//     "title": " SpyFu vs Semrush vs Everyone Else | How does SpyFu compare?",
+//     "description": "SpyFu is all you can eat: unlimited downloads and exports. Our data goes back over 10 years and 5 pages deep. Priced at $33/month. Try it free. No CC required.",
+//     "canonical": "https://www.spyfu.com/land/howdoesspyfucompare"
+// },
+// {
+//     // @skip
+//     "path": "/Land/KeywordResearchCompetitors",
+//     "title": "REDIRECT TO HOME PAGE",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/keywordresearchcompetitors"
+// },
+// {
+//     // @skip
+//     "path": "/Land/KeywordResearchExternalTool",
+//     "title": "Keyword Planner Isn't Telling You Everything You Need to Know...",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/keywordresearchexternaltool"
+// },
+// {
+//     // @skip
+//     "path": "/Land/KeywordResearchGenerator",
+//     "title": "REDIRECT TO HOME PAGE",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/keywordresearchgenerator"
+// },
+// {
+//     // @skip
+//     "path": "/land/keywordresearchsearchvolume",
+//     "title": "REDIRECT TO HOME PAGE",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/keywordresearchsearchvolume"
+// },
+// {
+//     // @skip
+//     "path": "/land/tryitfree/index.html",
+//     "title": "REDIRECT TO HOME PAGE",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/land/tryitfree/index.html"
+// },
+// {
+//     // @skip
+//     "path": "/MemberPerks",
+//     "title": "SpyFu Coupons and Discounts for SpyFu Members",
+//     "description": "",
+//     "canonical": "https://www.spyfu.com/memberperks"
+// },
+// {
+//     // @skip
+//     "path": "/mainpurchase/?page=default",
+//     "title": "SpyFu Pricing - Starting at $33/mo. Unlimited Data and Downloads.",
+//     "description": "Every plan includes unlimited searches and downloads. 30-day, no questions-asked, money back guarantee. No contracts. Zero hoops. Try SpyFu today, risk free.",
+//     "canonical": "https://www.spyfu.com/", // default canonical
+// },
+// {
+//     // @redirect: /outreach/domain-top-lists
+//     "path": "/outreach/top-lists",
+//     "title": "SpyFu Keyword Research Tools | Search Marketing Top Lists",
+//     "description": "SEO PPC Reports",
+//     "canonical": "https://www.spyfu.com/outreach/domain-top-lists"
+// },
+]
