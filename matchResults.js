@@ -1621,15 +1621,15 @@ const wrongDesc = [];
 const wrongCanon = [];
 
 tested.forEach((y) => {
-  let match = screamingFrog.find(x => x.path === y.path);
+  let match = screamingFrog.find(x => x.path.split("?")[0] === y.path);
   if (match) {
-    if (match.title == y.title) { //|| match.description != y.description || match.canoncial != y.canonical) {
+    if (match.title != y.title) { 
       wrongTitles.push({
         sf: match,
         tested: y
       })
     }
-    if (match.description == y.description) {
+    if (match.description != y.description) {
       wrongDesc.push({
         sf: match,
         tested: y
@@ -1637,15 +1637,12 @@ tested.forEach((y) => {
     }
     if (match.canonical != y.canonical) {
       wrongCanon.push({
-        sf: match,
-        te: y
+        scream: match,
+        tested: y
       })
     }
   }
 })
-
-console.log(tested.length)
-console.log(screamingFrog.length)
 
 console.log("Titles: ", wrongTitles)
 console.log("Descriptions: ", wrongDesc)
