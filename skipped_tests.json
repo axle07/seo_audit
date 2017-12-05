@@ -184,7 +184,7 @@
         "canonical": "https://www.spyfu.com/"
     },
     {
-        "reason": "// @redirect: /outreach/domain-top-lists",
+        "reason": "redirect: /outreach/domain-top-lists",
         "path": "/outreach/top-lists",
         "title": "SpyFu Keyword Research Tools | Search Marketing Top Lists",
         "description": "SEO PPC Reports",
