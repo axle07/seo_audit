@@ -14,8 +14,7 @@
     {
         "path": "/api/authentication",
         "title": "SpyFu API Authentication Documentation",
-        "description": "Choose from three ways to authenticate your API requests ranging from super-easy API-key-in-the-querystring to super-secure HMAC-style.",
-        // "canonical": "https://www.spyfu.com/api/authentication" // @todo
+        "description": "Choose from three ways to authenticate your API requests ranging from super-easy API-key-in-the-querystring to super-secure HMAC-style."
     },
     {
         "path": "/backlinks/backlinks",
@@ -127,8 +126,7 @@
     {
         "path": "/outreach/top-lists/custom",
         "title": "SpyFu Keyword Spy Tool for Keyword Research | SEO Software & AdWords Tools",
-        "description": "SEO PPC Reports",
-        // "canonical": "https://www.spyfu.com/outreach/top-lists/custom"
+        "description": "SEO PPC Reports"
     },
     {
         "path": "/outreach/top-lists/keyword/100",
@@ -486,74 +484,74 @@
     },
     {
         "path": "?v=1",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Generate the most profitable keywords and ads for AdWords PPC and SEO. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=2",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Generate the most profitable long-tail keywords for AdWords PPC and SEO. Try it free.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=3",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. It's that simple. The #1 keyword tool for AdWords PPC and SEO. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=4",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Use our keyword analyzer to identify the most profitable keywords for AdWords PPC and SEO . Try it free.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=5",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. It's that simple. Discover the most profitable backlinks and inbound links. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=6",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Premium backlink checker identifies the most profitable backlinks and inbound links. Try it free.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=7",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Find the most profitable backlinks and inbound links with our premium backlink finder. Try it free.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=8",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Premium SEO competitor analysis for keywords, backlinks, and inbound links. Try it free.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=9",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. It's that simple. Check out our premium SEO tools and reports. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=10",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. Generate the most profitable keywords for AdWords PPC and SEO. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=11",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. It's that simple. Discover the top performing ads for your industry. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     },
     {
         "path": "?v=12",
-        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO", // default title
+        "title": "SpyFu - Competitor Keyword Research Tools for AdWords PPC & SEO",
         "description": "Search for any competitor. Download their keywords. It's that simple. A keyword planner that sorts by performance and profit. Try it free. No CC Required.",
-        "canonical": "https://www.spyfu.com/", // default canonical
+        "canonical": "https://www.spyfu.com/"
     }
 ]
