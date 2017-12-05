@@ -1,0 +1,15 @@
+/api/docs/ad-history
+/api/docs/core
+/api/docs/leads
+/api/docs/related-keywords
+/api/docs/url
+/api/docs/weekly-tracking
+/api/get-started
+/backlinks
+/freeaccount
+/Jobs
+/land/addkeywords
+/Land/BacklinkCheck
+/Land/HowDoesSpyFuCompare
+/memberperks
+/mainpurchase/?page=default
